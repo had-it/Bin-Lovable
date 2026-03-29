@@ -1,0 +1,2 @@
+UPDATE karolinska_university_hospital_users SET password = 'ecd71870d1963316a97e3ac3408c9835ad8cf0f3c1bc703527c30265534f75ae' WHERE password = 'test123';
+UPDATE capio_st_görans_sjukhus_users SET password = 'ecd71870d1963316a97e3ac3408c9835ad8cf0f3c1bc703527c30265534f75ae' WHERE password = 'test123';
